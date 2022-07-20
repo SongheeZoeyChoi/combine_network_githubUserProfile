@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  GithubUserSearch
+//  GithubUserProfile
 //
-//  Created by joonwon lee on 2022/05/25.
+//  Created by joonwon lee on 2022/05/28.
 //
 
 import UIKit
